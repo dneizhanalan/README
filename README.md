@@ -1,37 +1,54 @@
 # README
-Summary
-I am an Electrical and Electronics Engineering student at Piri Reis University with a strong interest in numerical modeling, scientific computing, and hardware development. My background combines rigorous mathematical simulation with practical software engineering and electronic prototyping.
+Anladım, Ahmet Emre Çekçi'nin profilindeki o net, profesyonel ve sade yapıyı senin TÜBİTAK projenin teknik derinliği ve genel mühendislik becerilerinle birleştiriyorum.
 
-Technical Skills
+Bunu doğrudan GitHub profilinin **`README.md`** dosyası olarak kullanabilirsin:
 
-Programming & Software Development
+---
 
-    Languages: Python (Proficient in scientific computing), C++, C (Functional proficiency for embedded and systems programming).
+# Denizhan Alan 
 
-    Scientific Computing & Data Analysis: NumPy, SciPy, Matplotlib, Numba (JIT Acceleration for high-performance computing).
+**Electrical and Electronics Engineering Student at Piri Reis University**
 
-    Numerical Methods: ODE/DDE solvers, bifurcation analysis, Lyapunov exponent estimation, Power Spectral Density (PSD) analysis, time-step convergence testing.
+I am an engineering student focused on the intersection of **Computational Neuroscience**, **Scientific Computing**, and **Embedded Systems**. My approach blends rigorous mathematical modeling with systematic hardware/software integration. I am driven by the challenge of bridging theoretical research with reliable, real-world engineering solutions.
 
-    Documentation & Typesetting: LaTeX for professional academic and technical documentation.
+### 🔍 Research & Projects
 
-Hardware & Engineering
+* **Computational Neuroscience (TÜBİTAK 2247-C STAR Fellow):** Modeling astrocyte-neuron interactions and switching dynamics in neuronal populations.Supported by TÜBİTAK 2247-C, this project utilizes QIF neuronal populations and Li-Rinzel astrocyte models to analyze switching dynamics, Hopf bifurcations, and gama-band oscillations via mean-field simulations and Ott-Antonsen reduction.
 
-    Design & Modeling (CAD): AutoCAD, Fusion 360 (Practical proficiency for design and prototyping).
+* **Technical Stack:** Proficient in Python (NumPy, SciPy, Numba JIT) for scientific computing and simulation, with additional practical experience in C++, C, AutoCAD, Fusion 360, and PCB prototyping.
+* **Research Code:** All project source codes, including simulation pipelines, time-step convergence tests, and spectral analysis tools, are available in my repositories for review and implementation.
+  
+* **Numerical Methods:** Specialized in ODE/DDE solvers, bifurcation analysis, and high-performance simulation optimization.
+* **DEE-Dynamics / Research Collaboration:** Working on reproducible scientific workflows and robust algorithm validation.
 
-    Electronics & Prototyping: Electronic circuit design, component integration, soldering, and hardware troubleshooting.
+### 🛠 Technical Skills
 
-    Manufacturing: 3D Printing (Print optimization and material feasibility).
+**Programming & Scientific Computing**
 
-Research & Academic Projects
+* **Languages:** Python (Expert), C++, C (Systems Programming).
+* **Scientific Stack:** NumPy, SciPy, Matplotlib, Numba (JIT Acceleration).
+* **Numerical Analysis:** PSD analysis, Lyapunov exponents, time-step convergence verification.
+* **Documentation:** LaTeX.
 
-    Computational Neuroscience (TÜBİTAK 2247-C STAR Fellowship): Developed and validated Python-based mean-field simulations (MPR equations, Ott-Antonsen reduction). Specialized in delay-induced dynamical systems and performance optimization using Numba.
+**Hardware & Engineering**
 
-    Scientific Integrity: Experienced in validating numerical models against reference benchmarks, ensuring algorithm reproducibility, and maintaining systematic documentation for complex research workflows.
+* **Embedded Systems:** Electronic circuit design, PCB prototyping, component integration, and hardware troubleshooting.
+* **CAD & Modeling:** AutoCAD, Fusion 360.
+* **Manufacturing:** 3D Printing (Print optimization and material feasibility).
+* **Tools:** Git, GitHub.
 
-Core Competencies
+### 🚀 Currently Working On
 
-    Analytical problem-solving and mathematical modeling.
+* Refining mean-field simulations for neuronal population dynamics.
+* Developing systematic validation pipelines for scientific research.
+* Bridging theoretical mathematical models with efficient code implementation.
 
-    Versatile approach to interdisciplinary engineering challenges (Software + Hardware).
+### 🌐 Connect
 
-    Detail-oriented workflow with a focus on code efficiency and system reliability.
+* 💼 **LinkedIn:** https://www.linkedin.com/in/denizhan-alan-2729b3391/
+* 📧 **Email:** denizhan.alan@stu.pirireis.edu.tr
+* 🎓 **Academic Portfolio:** Check my pinned repositories for research codes and numerical analysis workflows.
+
+---
+
+*I believe in interdisciplinary problem solving and building systems that are not just functional, but scientifically sound and reproducible.*
