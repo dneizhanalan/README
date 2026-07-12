@@ -1,9 +1,3 @@
-# README
-Anladım, Ahmet Emre Çekçi'nin profilindeki o net, profesyonel ve sade yapıyı senin TÜBİTAK projenin teknik derinliği ve genel mühendislik becerilerinle birleştiriyorum.
-
-Bunu doğrudan GitHub profilinin **`README.md`** dosyası olarak kullanabilirsin:
-
----
 
 # Denizhan Alan 
 
