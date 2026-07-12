@@ -1,5 +1,5 @@
-
-# Denizhan Alan 
+#README
+**Denizhan Alan**
 
 **Electrical and Electronics Engineering Student at Piri Reis University**
 
