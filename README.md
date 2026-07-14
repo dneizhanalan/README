@@ -40,7 +40,7 @@ I am an engineering student focused on the intersection of **Computational Neuro
 ### 🌐 Connect
 
 * 💼 **LinkedIn:** https://www.linkedin.com/in/denizhan-alan-2729b3391/
-* 📧 **Email:** denizhan.alan@stu.pirireis.edu.tr
+* 📧 **Email:** dalan147@outlook.com
 * 🎓 **Academic Portfolio:** Check my pinned repositories for research codes and numerical analysis workflows.
 
 ---
